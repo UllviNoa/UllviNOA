@@ -1,5 +1,0 @@
-/Users/andrenorberg/Projects/ShowTheClassFirstConsole/ShowTheClassFirstConsole/bin/Debug/ShowTheClassFirstConsole.exe
-/Users/andrenorberg/Projects/ShowTheClassFirstConsole/ShowTheClassFirstConsole/bin/Debug/ShowTheClassFirstConsole.pdb
-/Users/andrenorberg/Projects/ShowTheClassFirstConsole/ShowTheClassFirstConsole/obj/x86/Debug/ShowTheClassFirstConsole.csproj.CoreCompileInputs.cache
-/Users/andrenorberg/Projects/ShowTheClassFirstConsole/ShowTheClassFirstConsole/obj/x86/Debug/ShowTheClassFirstConsole.exe
-/Users/andrenorberg/Projects/ShowTheClassFirstConsole/ShowTheClassFirstConsole/obj/x86/Debug/ShowTheClassFirstConsole.pdb
