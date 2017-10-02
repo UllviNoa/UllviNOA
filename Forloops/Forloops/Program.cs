@@ -7,7 +7,7 @@ namespace Forloops
         public static void Main(string[] args)
         {
 
-
+            //KOmmentar!!!!
             int x = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 
             int start = (int)Math.Sqrt(x);
