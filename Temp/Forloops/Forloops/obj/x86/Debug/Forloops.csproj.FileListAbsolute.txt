@@ -1,0 +1,10 @@
+/Users/andrenorberg/Projects/Forloops/Forloops/bin/Debug/Forloops.exe
+/Users/andrenorberg/Projects/Forloops/Forloops/bin/Debug/Forloops.pdb
+/Users/andrenorberg/Projects/Forloops/Forloops/obj/x86/Debug/Forloops.csproj.CoreCompileInputs.cache
+/Users/andrenorberg/Projects/Forloops/Forloops/obj/x86/Debug/Forloops.exe
+/Users/andrenorberg/Projects/Forloops/Forloops/obj/x86/Debug/Forloops.pdb
+/Users/andrenorberg/Documents/GitHub/UllviNOA/Forloops/Forloops/bin/Debug/Forloops.exe
+/Users/andrenorberg/Documents/GitHub/UllviNOA/Forloops/Forloops/bin/Debug/Forloops.pdb
+/Users/andrenorberg/Documents/GitHub/UllviNOA/Forloops/Forloops/obj/x86/Debug/Forloops.csproj.CoreCompileInputs.cache
+/Users/andrenorberg/Documents/GitHub/UllviNOA/Forloops/Forloops/obj/x86/Debug/Forloops.exe
+/Users/andrenorberg/Documents/GitHub/UllviNOA/Forloops/Forloops/obj/x86/Debug/Forloops.pdb

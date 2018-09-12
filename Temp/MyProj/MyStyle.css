@@ -1,0 +1,45 @@
+* {
+    border: 0;
+    padding: 0;
+}
+
+#vidBG
+{
+    position: fixed;
+    z-index: -99;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+
+#vidBG iframe
+{
+    border: 0;
+    height: 100%;
+    width: 100%;
+}
+
+#centerContainer
+{
+    display: block;
+    position:relative;
+    width: 70%;
+    color: azure;
+    left: 14%;
+}
+
+#centerContainer p
+{
+    float: left;
+    display: inline;
+    width: 60%;
+}
+
+#centerContainer img
+{
+    float: right;
+    display: inline;
+    width: 20%;
+    border-radius: 5px;
+}

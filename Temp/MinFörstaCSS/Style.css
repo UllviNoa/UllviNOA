@@ -1,0 +1,127 @@
+
+
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noticia Text', serif;
+}
+
+#meny
+{
+    background-color: lightblue;
+}
+
+#meny .menyBtn
+{
+    width: 14%;
+    padding: 5px;
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+#meny div:first-child
+{
+    margin-left: 24%;
+}
+
+.menyBtn:hover
+{
+    
+    box-shadow: 0px 2px 2px black;
+}
+
+#left {
+    width: 25%;
+    min-height: 300px;
+    display: inline-block;
+    position: absolute;
+}
+
+#left img
+{
+    max-width: 30%;
+    margin-bottom: 100px;
+    position: relative;
+    left: 33%;
+    top: 30px;
+}
+
+#left ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#left ul li {
+    margin-bottom: 5px;
+    margin-left: 0px;
+    text-align: center;
+}
+
+#center {
+    width: 50%;
+    min-height: 300px;
+    left: 26%;
+    position: absolute;
+    border-radius: 20px 0px 20px 0px;
+    padding: 20px;
+}
+
+#center h1
+{
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#center h2
+{
+    text-align: center;
+    font-size: 12px;
+}
+
+#center .illPic {
+    position: relative;
+    top: 20px;
+    float: right;
+}
+
+#center #lastEvent p,img
+{
+    display: inline-block;
+    width: 49%;
+}
+
+#center #lastEvent h3
+{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+#portraits
+{
+    clear: both;
+    align-content: center;
+}
+
+#portraits .img 
+{
+    width: 30%;
+    position: relative;
+    left: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.img img
+{
+    width: 100%;
+}
